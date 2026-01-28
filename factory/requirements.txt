@@ -1,0 +1,10 @@
+# Workflow-Factory Engine Requirements
+# Install via: pip install -r factory/requirements.txt
+
+# Core dependencies (Standard library used where possible)
+# aws-cli (should be installed via brew or system installer)
+
+# Optional Python enhancements
+requests
+python-magic
+Pillow # For optimize_assets.py improvements

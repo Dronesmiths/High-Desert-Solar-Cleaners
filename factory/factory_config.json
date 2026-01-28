@@ -1,0 +1,32 @@
+{
+    "client": {
+        "name": "[BUSINESS_NAME]",
+        "phone": "[PHONE_NUMBER]",
+        "email": "[EMAIL_ADDRESS]",
+        "address_city": "[CITY]",
+        "address_state": "[STATE]",
+        "domain": "[DOMAIN_NAME]"
+    },
+    "brand": {
+        "primary_color": "#000000",
+        "secondary_color": "#FFFFFF",
+        "font_heading": "[HEADING_FONT]",
+        "font_body": "[BODY_FONT]"
+    },
+    "aws": {
+        "bucket_name": "[BUCKET_NAME]",
+        "region": "us-east-1",
+        "cloudfront_id": "[DISTRIBUTION_ID]",
+        "profile": "mediusa"
+    },
+    "seo": {
+        "primary_keywords": [
+            "[KEYWORD_1]",
+            "[KEYWORD_2]"
+        ],
+        "service_area": [
+            "[SERVICE_AREA_1]",
+            "[SERVICE_AREA_2]"
+        ]
+    }
+}
