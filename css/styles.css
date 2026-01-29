@@ -1,23 +1,27 @@
 :root {
     /* High Desert Solar Cleaners Brand Palette */
     --primary-blue: #1F6AE1;
-    --primary-accent: #F5B301; /* Solar Gold */
+    --primary-accent: #F5B301;
+    /* Solar Gold */
     --primary-yellow: #F5B301;
     --primary-green: #2FAE61;
-    
+
     /* Derived Colors */
-    --blue-dark: #154b9f; /* Darker shade of #1F6AE1 */
-    --blue-light: #e8f0fc; /* Very light tint of primary blue */
-    
+    --blue-dark: #154b9f;
+    /* Darker shade of #1F6AE1 */
+    --blue-light: #e8f0fc;
+    /* Very light tint of primary blue */
+
     --white: #FFFFFF;
     --text-dark: #2B2B2B;
     --text-light: #F5F5F5;
     --bg-light: #E6E6E6;
-    
-    --footer-dark: #1a1a1a; /* Dark neutral for footer */
-    
+
+    --footer-dark: #1a1a1a;
+    /* Dark neutral for footer */
+
     --primary-dark: var(--blue-dark);
-    
+
     --hero-blue-1: rgba(31, 106, 225, 0.85);
     --hero-blue-2: rgba(21, 75, 159, 0.85);
 
@@ -254,7 +258,7 @@ nav a.active {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(27, 77, 46, 0.75), rgba(13, 38, 23, 0.65)), url('/images/leona-valley-oasis.webp');
+    background: linear-gradient(rgba(27, 77, 46, 0.75), rgba(13, 38, 23, 0.65)), url('/images/solar-cleaning-hero.png');
     background-size: cover;
     background-position: center;
     color: var(--white);

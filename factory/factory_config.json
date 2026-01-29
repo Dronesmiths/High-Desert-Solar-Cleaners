@@ -1,32 +1,32 @@
 {
     "client": {
-        "name": "[BUSINESS_NAME]",
-        "phone": "[PHONE_NUMBER]",
-        "email": "[EMAIL_ADDRESS]",
-        "address_city": "[CITY]",
-        "address_state": "[STATE]",
-        "domain": "[DOMAIN_NAME]"
+        "name": "High Desert Solar Cleaners",
+        "phone": "6614984444",
+        "email": "contact@highdesertsolarcleaners.com",
+        "address_city": "Palmdale",
+        "address_state": "CA",
+        "domain": "da1rag2k8bgpo.cloudfront.net"
     },
     "brand": {
-        "primary_color": "#000000",
-        "secondary_color": "#FFFFFF",
-        "font_heading": "[HEADING_FONT]",
-        "font_body": "[BODY_FONT]"
+        "primary_color": "#1F6AE1",
+        "secondary_color": "#F5B301",
+        "font_heading": "Poppins",
+        "font_body": "Open Sans"
     },
     "aws": {
-        "bucket_name": "[BUCKET_NAME]",
+        "bucket_name": "high-desert-solar-cleaners-1769641838",
         "region": "us-east-1",
-        "cloudfront_id": "[DISTRIBUTION_ID]",
+        "cloudfront_id": "E2UR9FL4HH08NT",
         "profile": "mediusa"
     },
     "seo": {
         "primary_keywords": [
-            "[KEYWORD_1]",
-            "[KEYWORD_2]"
+            "Solar Panel Cleaning",
+            "Bird Proofing"
         ],
         "service_area": [
-            "[SERVICE_AREA_1]",
-            "[SERVICE_AREA_2]"
+            "Palmdale",
+            "Lancaster"
         ]
     }
 }
