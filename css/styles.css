@@ -235,7 +235,7 @@ nav a.active {
         transform: translateY(-150%);
         /* Hidden by default */
         transition: transform 0.3s ease-in-out;
-        z-index: 999;
+        z-index: 2000;
     }
 
     nav.active {
